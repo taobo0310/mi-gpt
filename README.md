@@ -1,22 +1,26 @@
+> [!WARNING]
+> 本项目已停止维护，不再提供更新与支持，感谢大家的使用。
+
+<div align="center">
+
 # MiGPT：智能家居，从未如此贴心 ❤️
 
-[![npm version](https://badge.fury.io/js/mi-gpt.svg)](https://www.npmjs.com/package/mi-gpt) [![Docker Image Version](https://img.shields.io/docker/v/idootop/mi-gpt?color=%23086DCD&label=docker%20image)](https://hub.docker.com/r/idootop/mi-gpt) [![Docker Pulls](https://img.shields.io/docker/pulls/idootop/mi-gpt)](https://hub.docker.com/r/idootop/mi-gpt) <a href="https://hellogithub.com/repository/e02e62fbb9c746cdb61c6559c186ac44" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=e02e62fbb9c746cdb61c6559c186ac44&claim_uid=LdwexZ8z7Ggu3lJ&theme=small" alt="Featured｜HelloGitHub" /></a>
+<a href="https://trendshift.io/repositories/10645" target="_blank"><img src="https://trendshift.io/api/badge/repositories/10645" alt="idootop%2Fmi-gpt | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-> 👉 查看完整演示视频：【[将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手～](https://www.bilibili.com/video/BV1N1421y7qn/?share_source=copy_web&vd_source=5d4e78ff2a0dc6a661baa65f479199c1)】
+👉 演示视频：[将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手～](https://www.bilibili.com/video/BV1N1421y7qn/?share_source=copy_web&vd_source=5d4e78ff2a0dc6a661baa65f479199c1)
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/idootop/mi-gpt)](https://hub.docker.com/r/idootop/mi-gpt)
+[![npm version](https://badge.fury.io/js/mi-gpt.svg)](https://www.npmjs.com/package/mi-gpt) 
+[![Docker Image Version](https://img.shields.io/docker/v/idootop/mi-gpt?color=%23086DCD&label=docker%20image)](https://hub.docker.com/r/idootop/mi-gpt) 
+[![License](https://img.shields.io/github/license/idootop/mi-gpt)](https://github.com/idootop/mi-gpt/blob/main/LICENSE)
+[![Featured｜HelloGitHub](https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=e02e62fbb9c746cdb61c6559c186ac44&claim_uid=LdwexZ8z7Ggu3lJ&theme=small)](https://hellogithub.com/repository/e02e62fbb9c746cdb61c6559c186ac44)
+
+
+</div>
 
 <video src='https://github.com/idootop/mi-gpt/assets/35302658/dc336916-9087-418b-bc1b-04d5534dce8f'></video>
 
 ## 👋 项目简介
-
-> [!TIP]
-> 如果你是小爱音箱 Pro 用户，推荐使用 [Open-XiaoAI](https://github.com/idootop/open-xiaoai) ✨ 
->
-> 即刻解锁**自定义唤醒词、连续对话、接入小智 AI** 等全新玩法
-
-> [!IMPORTANT]
-> 全新 [MiGPT-Next](https://github.com/idootop/migpt-next) 已发布，该项目已停止维护 ⚠️
-> 
-> 新项目修复了一些已知问题，支持自定义消息回复，拥有更好的稳定性，建议尽早[迁移](https://github.com/idootop/migpt-next)
 
 在这个数字化的世界里，家已不仅仅是一个居住的地方，而是我们数字生活的延伸。
 
@@ -48,6 +52,11 @@
 > 302.AI 是一个按需付费的一站式 AI 应用平台，开放平台，开源生态。[官方网站](https://302.ai)｜[网站介绍](https://help.302.ai)
 
 ## ⚡️ 快速开始
+
+> [!TIP]
+> 如果你是小爱音箱 Pro 用户，推荐使用 [Open-XiaoAI](https://github.com/idootop/open-xiaoai) ✨
+>
+> 即刻解锁**自定义唤醒词、连续对话、接入小智 AI** 等全新玩法
 
 ### 视频教程
 
